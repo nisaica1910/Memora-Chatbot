@@ -1,0 +1,8 @@
+openai
+tiktoken
+requests
+streamlit
+pymupdf
+python-docx
+SQLAlchemy
+python-dotenv
